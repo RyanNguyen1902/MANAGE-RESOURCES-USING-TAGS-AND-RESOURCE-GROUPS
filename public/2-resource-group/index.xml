@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creating a Resource Group on Using Tags and Resource Groups</title>
+    <link>/2-resource-group/</link>
+    <description>Recent content in Creating a Resource Group on Using Tags and Resource Groups</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Jul 2021 14:42:20 +0700</lastBuildDate>
+    
+	<atom:link href="/2-resource-group/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
